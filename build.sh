@@ -1,5 +1,5 @@
 
-
+mkdir build
 cd build
 
 make clean
