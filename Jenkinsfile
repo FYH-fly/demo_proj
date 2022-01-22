@@ -10,7 +10,7 @@ pipeline {
           }
         }
 
-        stage('') {
+        stage('te') {
           steps {
             echo 'test mult build step'
           }
